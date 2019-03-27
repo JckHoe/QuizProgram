@@ -1,0 +1,4 @@
+Select the correct operator,43,23,1
+Select the accurate operator,24,23,1
+Select the right answer,23,50,2
+Select the right operator,33,23,1

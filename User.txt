@@ -1,0 +1,6 @@
+Demo1,123,DemoFull,2011-07-04,Boy,0,630,0,0
+Jack,123,Ong Jack Hoe,1997-07-14,Boy,0,590,0,590
+jack,123,jack,2012-11-08,Boy,0,200,0,200
+Jack123,123,Jack,1997-12-24,Boy,0,550,0,0
+lol,123,lol,1997-12-13,Girl,0,0,0,0
+tempUser,test123,Jacke,2005-03-10,Boy,130,0,1,0

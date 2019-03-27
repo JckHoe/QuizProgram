@@ -1,0 +1,4 @@
+{3 x [60-(15+5)]} / 8;20;40;15;120;2
+How many seconds are in one day?;86400;84600;72000;15000;0
+Genji finishes a manga in 20 days. He reads 40 pages everyday for the first 15 days, and 120 pages for the last 5 days.How many pages did Genji read?;1600;600;2000;1200;3
+x / (y + z) = 117, x = 1521, z = 6, Find y;8;7;13;6;1
